@@ -10,18 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a09530f-bec4-4acb-ba21-46b7cecb2e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/04-todo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/todo.class.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/todo.class.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/todo.list.class.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/todo.list.class.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/componentes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/componentes.js" afterDir="false" />
-    </list>
+    <list default="true" id="0a09530f-bec4-4acb-ba21-46b7cecb2e31" name="Default Changelist" comment="Todo terminado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,8 +46,16 @@
       <workItem from="1604556420940" duration="3715000" />
       <workItem from="1604591064008" duration="372000" />
       <workItem from="1604591500619" duration="8542000" />
-      <workItem from="1604692792190" duration="3658000" />
+      <workItem from="1604692792190" duration="3967000" />
     </task>
+    <task id="LOCAL-00001" summary="Todo terminado">
+      <created>1604697067553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604697067553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,11 +73,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Todo terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todo terminado" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="184" y="9" key="SettingsEditor" timestamp="1604607734764">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604607734764" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604697166883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604697166883" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604696698841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
