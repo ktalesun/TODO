@@ -1,12 +1,9 @@
 import "../src/styles.css";
 import { Todo, TodoList } from "./classes";
+import { crearTodoHTML } from "./js/componentes";
 
-const tarea = new Todo("Aprender Javascript");
-const TodoLista = new TodoList();
+export const TodoLista = new TodoList();
 
-const Tarea2 = new Todo("Aprender css");
+console.log(TodoLista.todos);
 
-TodoLista.nuevoTodo(tarea);
-TodoLista.nuevoTodo(Tarea2);
-
-console.log({ TodoLista });
+TodoLista.todos.forEach(todo => crearTodoHTML(todo));
