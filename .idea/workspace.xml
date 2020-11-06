@@ -15,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classes/todo.class.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/todo.class.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classes/todo.list.class.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/todo.list.class.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
@@ -56,7 +57,7 @@
       <workItem from="1604556420940" duration="3715000" />
       <workItem from="1604591064008" duration="372000" />
       <workItem from="1604591500619" duration="8542000" />
-      <workItem from="1604692792190" duration="3212000" />
+      <workItem from="1604692792190" duration="3658000" />
     </task>
     <servers />
   </component>
@@ -80,9 +81,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604607734764" />
-    <state x="346" y="49" key="search.everywhere.popup" timestamp="1604557985953">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604696698841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604557985953" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604696698841" />
   </component>
 </project>
